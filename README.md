@@ -1,3 +1,5 @@
+Archivo README.md (60%)
+
 # Proyecto-FdT-grupo-4
 Descripción general de
 su proyecto (10%)
