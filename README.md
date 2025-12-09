@@ -20,7 +20,7 @@ Para esto, se cumple con un esquema de discretización basado en diferencias fin
 - Perfil de temperatura en aislante: a través de diferencias finitas centrales de segundo orden.
 - Para las condiciones de borde se usaron aproximaciones hacia adelante y hacia atrás, dependiendo de la condición para la resolución de los distintos perfiles.
 
-Para ejecutar correctamente el código, basta con descargar el archivo con la solución y abrirlo en alguna consola para pyhton o en la nube (Google Colab), para ir ejecutando las celdas de arriba hacia abajo. Así aparecerán los distintos resultados con sus gráficos correspondientes, a medida que se vaya ejecutando las celdas.
+Para ejecutar correctamente el código, basta con descargar el archivo con la solución llamado "simulacion_grupo4_FdT.ipynb" y abrirlo en alguna consola para pyhton o en la nube (Google Colab), para ir ejecutando las celdas de arriba hacia abajo. Así aparecerán los distintos resultados con sus gráficos correspondientes, a medida que se vaya ejecutando las celdas.
 
 Gráfico 1: Perfil de temperatura en pared aislada
 
