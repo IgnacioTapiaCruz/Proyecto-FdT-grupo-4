@@ -22,6 +22,7 @@ Para esto, se cumple con un esquema de discretización basado en diferencias fin
 
 Para ejecutar correctamente el código, basta con descargar el archivo con la solución y abrirlo en alguna consola para pyhton o en la nube (Google Colab), para ir ejecutando las celdas de arriba hacia abajo. Así aparecerán los distintos resultados con sus gráficos correspondientes, a medida que se vaya ejecutando las celdas.
 
-Gráfico 1: Perfil de velocidad en pared aislada.
+Gráfico 1: Perfil de temperatura en pared aislada
+
 ![Imagen de WhatsApp 2025-12-09 a las 11 30 05_b82a6e90](https://github.com/user-attachments/assets/4766699c-a13c-43b1-af08-f30ab72a0ec6)
 
